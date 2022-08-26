@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CachorroTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-08-26T17:20:51" hostname="LAPTOP-B12N0AKR" time="0.038">
+  <properties/>
+  <testcase name="exibirDog()" classname="CachorroTest" time="0.033"/>
+  <testcase name="dogDetails()" classname="CachorroTest" time="0.003"/>
+  <system-out><![CDATA[Nome: teste
+ Idade: 0
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
